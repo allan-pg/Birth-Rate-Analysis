@@ -29,3 +29,4 @@ It contains 365 rows and and 9 columns
 
  ## References
  - This dataset was obtained from www.kaggle.com/birthrate 
+- Power BI reports color picking on https://medium.com/@abdulazeezabdullah2/colour-combinations-for-powerbi-reports-8ce34fe6af2b
