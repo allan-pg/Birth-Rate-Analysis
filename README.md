@@ -3,7 +3,7 @@
 ![q](https://github.com/allan-pg/birth_rate/assets/62595869/2c597aa1-f4e3-4f2a-9773-eccc2f0b1e53)
 
 ## Data Used
-**Data** The dataset used is of new borns in the year 2015. I have also included the dataset which is also available on kaggle.
+**Data** The dataset used is of new borns in the year 2015. I have included the dataset.
 It contains 365 rows and and 9 columns
 **Data Visualization** - Power BI
 
@@ -26,3 +26,6 @@ It contains 365 rows and and 9 columns
 - On tuesday, Wednesday and Thursday we require more human resource.
 - Include overtime payment on busy days.
 - Ensure there is adequate supply of medical equipments and medicine.
+
+ ## References
+ - This dataset was obtained from www.kaggle.com/birthrate 
