@@ -11,8 +11,8 @@ It contains 365 rows and and 9 columns
 1. How many children were born in total in 2015.
 2. Which month had the highest birth rate.
 3. Which month had the lowest birth rate.
-4. Which day had the highest birth rate.
-5. Which day had the lowest birth rate.
+4. Which days of the week had the highest birth rate.
+5. Which days of the week had the lowest birth rate.
 
 ## Summary of Findings
 - There were 4 million records of new born babies.
