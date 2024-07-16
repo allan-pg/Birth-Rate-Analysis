@@ -1,4 +1,4 @@
-# Birth rate Analysis using power bi
+# Birth rate Data Analysis using power bi
 
 ![q](https://github.com/allan-pg/birth_rate/assets/62595869/2c597aa1-f4e3-4f2a-9773-eccc2f0b1e53)
 
@@ -6,6 +6,7 @@
 **Data** The dataset used is of new borns in the year 2015.  
 I have included the dataset.  
 It contains 365 rows and and 9 columns  
+**Data Transformation** - Power BI Dax Functions
 **Data Visualization** - Power BI  
   
 ## Questions
